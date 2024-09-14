@@ -1,0 +1,3 @@
+<img class="parimg" src="./im/nauspt.jpeg" alt="Nau portuguesa">
+<br>
+Modelo de embarcação ibérica do século XVII, a nau era uma evolução das caravelas. A pesquisa e desenvolvimento das tecnologias náuticas portuguesas foi decisivo para o início das grandes navegações. Especialmente pelo aprimoramento e uso da vela triangular, tecnologia capaz de direcionar a força do ar mesmo em situações de vento desfavoráveis, impulsionando o avanço das naves oceânicas em viagens expedicionárias, expandindo o conhecimento e a comunicação de todas as regiões do globo.
