@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="./icon/iconbrwic.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nordeste holandês</title>
+    <style>
+
+    </style>
+    <script type="importmap">
+    {
+      "imports": {
+        "three": "../../build/three.module.js"
+      }
+    }
+    </script>
+    <script type="module" crossorigin src="./assets/index-BU9Y7V3b.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-B8VTUNaB.css">
+  </head>
+  <body>
+    </script>
+    <canvas id="c"></canvas>
+    <header id="header">
+        <div class="topnav" id="myTopnav">
+          <a class="mark" href="javascript:void(0);" id="btmark" onclick="barResp()"></a>
+
+          <a href="javascript:void(0);" id="btbrwic" onclick="barResp()">Brasil Wic</a>
+          <div class="dropdown">
+            <button class="dropbtn"><a href="javascript:void(0);" id="btpe" onclick="barResp()">Pernambuco +</a> 
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+              <a href="javascript:void(0);" id="btpe" onclick="barResp()">Pernambuco</a>
+              <a class="ris" href="javascript:void(0);" id="btpe" onclick="barResp()">Igarassu</a>
+              <a class="ris" href="javascript:void(0);" id="btpe" onclick="barResp()">Sirinhaém</a>
+              <a class="ris" href="javascript:void(0);" id="btpe" onclick="barResp()">Sergipe</a>
+              <a class="ris" href="javascript:void(0);" id="btpe" onclick="barResp()">Alagoas</a>
+            </div>
+          </div> 
+          <a href="javascript:void(0);" id="btit" onclick="barResp()">Itamaracá</a>
+          <a href="javascript:void(0);" id="btpb" onclick="barResp()">Paraíba</a>
+          <a href="javascript:void(0);" id="btrn" onclick="barResp()">Rio Grande</a>
+          <a href="javascript:void(0);" id="btproj" onclick="barResp()">Projeto</a>
+          <div class="dropdown">
+            <button class="dropbtn">pt 
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+              <a class="ris" href="javascript:void(0);" id="lanen" onclick="barResp()">en</a>
+              <a class="ris" href="javascript:void(0);" id="lanes" onclick="barResp()">es</a>
+              <a class="ris" href="javascript:void(0);" id="lanne" onclick="barResp()">ne</a>
+            </div>
+          </div>
+        </div>
+    </header>
+    <script>
+        function barResp() {
+            var x = document.getElementById("myTopnav");
+            if (x.className === "topnav") {
+                x.className += " responsive";
+            } else {
+                x.className = "topnav";
+            }
+        } 
+    </script>
+    <script type="text/javascript"> // RELOADS WEBPAGE WHEN MOBILE ORIENTATION CHANGES  
+        window.onorientationchange = function() { 
+            var orientation = window.orientation; 
+                switch(orientation) { 
+                    case 0: window.location.reload(); 
+                    break; 
+                    case 90: window.location.reload(); 
+                    break; 
+                    case -90: window.location.reload(); 
+                    break; 
+                } 
+        };
+    </script>
+
+
+  </body>
+</html>
