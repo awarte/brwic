@@ -14,7 +14,6 @@ O design desenvolvido pelo autor deste projeto parte dos conceitos de leitura da
 <img src="./im/logos/senado.png" alt="Logo Senado Federal" width="50" height="50"></a>
 <a href="javascript:void(0);" onclick="window.open('http://www.institutoricardobrennand.org.br/');return false"><img src="./im/logos/rb.png" alt="Logo Instituto Ricardo Brenand" width="50" height="50"></a>
 <a href="javascript:void(0);" onclick="window.open('https://www.rijksmuseum.nl/nl');return false"><img src="./im/logos/rijks.png" alt="Logo Rijksmuseum" width="50" height="50"></a>
-
 <a href="javascript:void(0);" onclick="window.open('https://www.ufpb.br/');return false"><img src="./im/logos/ufpb.png" alt="Brasão Universidade Federal da Paraíba"  width="50" height="50"></a>
 <a href="javascript:void(0);" onclick="window.open('https://www.ufpe.br/');return false"><img class="imgLogos" src="./im/logos/ufpe.png" alt="Brasão Universidade Federal de Pernambuco"  width="50" height="50"></a>
 </div>
