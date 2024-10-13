@@ -21,5 +21,5 @@ O design desenvolvido pelo autor deste projeto parte dos conceitos de leitura da
 <br>
 <p class='cit'>Contato:</p>
 <div class="imgLogos">
-<a href="javascript:void(0);" onclick="window.open('https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=1880');return false"><img src="./im/logos/insta-white.svg" alt="Logo PPGAV" width="50px" height="50px"></a>
+<a href="javascript:void(0);" onclick="window.open('https://www.instagram.com/norasden/"><img src="./im/logos/insta-white.svg" alt="Logo Instagram" width="50" height="50"></a>
 </div>
