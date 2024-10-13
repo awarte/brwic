@@ -7,8 +7,8 @@ O livro de Barléu é ilustrado com gravuras de artistas da comitiva nassoviana,
 <br><br>
 <div class="parimg">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29595429.28288638!2d-51.316680000000005!3d-14.40952615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9c59c7ebcc28cf%3A0x295a1506f2293e63!2sBrasil!5e1!3m2!1spt-BR!2sbr!4v1728816954219!5m2!1spt-BR!2sbr" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<p class='cit'>Mapa atual do Brasil . Google</p>
 </div>
+<p class='cit'>Mapa atual do Brasil . Google</p>
 A WIC foi criada no século XVII, seguindo o modelo da sua empresa irmã, a Companhia das Índias Orientais - VOC (<i>Vereenigde Oost-Indische Compagnie</i>). Ambas formavam um conglomerado mercantil que deu início ao modelo corporativo utilizado até os dias atuais no sistema financeiro global. A WIC e a VOC atendiam aos interesses de acionistas, sob comando de um grupo conhecido como Conselho dos Dezenove, que determinavam as operações transnacionais das companhias, operando em acordo com a casa real dos Países Baixos. Sob esse sistema foram delimitadas as expedições ultramarinas neerlandesas com o objetivo de dominar colônias americanas e africanas, marcando a expansão global, cultural, política e mercantil das disputas entre as potências europeias durante os conflitos conhecidos como guerra dos Oitenta Anos.
 <br><br>
 <img class="parimg" src="./im/map-brwic-1641.webp">
