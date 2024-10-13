@@ -1,5 +1,5 @@
 <img class="parimg" src="./im/laet_pb_h700p.png" alt="Mapa da Paraíba no livro de Joannes Laet">
-<p class='cit'>Gravura do livro de Joannes de Laet, <i><a href=”https://digital.bbm.usp.br/handle/bbm/7935”>Histoire Ofte Iaerlijck Verhael van de Verrichtighen der Geoctroyeerde West-Indische Compagnie</a></i>. (LAET, 1644, p. 675)</p>
+<p class='cit'>Gravura do livro de Joannes de Laet, <i><a href="javascript:void(0);" onclick="window.open('https://digital.bbm.usp.br/handle/bbm/');return false">Histoire Ofte Iaerlijck Verhael van de Verrichtighen der Geoctroyeerde West-Indische Compagnie</a></i>. (LAET, 1644, p. 675)</p>
 <br><br>
 <div class="parimg">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1894889.7601952825!2d-38.10179618563885!3d-7.1625449715890595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7a54cb6ee98c8cf%3A0x1f289b24323c01b4!2zUGFyYcOtYmE!5e1!3m2!1spt-BR!2sbr!4v1728833236859!5m2!1spt-BR!2sbr" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
