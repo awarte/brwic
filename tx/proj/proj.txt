@@ -3,10 +3,11 @@ Esse projeto tem origem na pesquisa <b>A série gráfica Nordeste Holandez do ar
 <img class="parimg" src="./im/nivalson_miranda_h300p.png" alt="Artista visual Nivalson Miranda">
 <p class='cit'>Nivalson Miranda diante de uma de suas obras, um painel gráfico com imagens da Pedra de Ingá</p>
 <br>
-O projeto parte de figuras emblemáticas que se relacionam ao Brasil holandês, na percepção imagética entre os artistas e suas obras, e no entrelaçamento entre as Artes Visuais e a História. O portal virtual criado a partir da pesquisa desenvolvida busca integrar essas imagens em uma experiência imagética imersiva, com uso de recursos audiovisuais e das Tecnologias da Informação e Comunicação (TICs). Nesse esforço, foi adotado para o desenvolvimento desse produto padrões livres em sistemas de imagens digitais 3D e 2D, possibilitando a visualização e hipernavegação online interativa em navegadores Web, sem necessidade de instalação de plugins adicionais ou de sistemas proprietários.
+O projeto parte de figuras emblemáticas que se relacionam ao Brasil holandês, na percepção imagética entre os artistas e suas obras, e no entrelaçamento entre as Artes Visuais e a História. O portal virtual criado a partir da pesquisa desenvolvida busca integrar essas imagens em uma experiência imagética imersiva, com uso de recursos audiovisuais e das Tecnologias da Informação e Comunicação (TICs). Nesse esforço, foi adotado para o desenvolvimento desse produto padrões livres em sistemas de imagens digitais 3D e 2D, possibilitando a visualização e hiper-navegação online interativa em navegadores Web, sem necessidade de instalação de plugins adicionais ou de sistemas proprietários.
 <br><br>
 O design desenvolvido pelo autor deste projeto parte dos conceitos de leitura das imagens para uma análise iconológica, inspirado nos métodos de Panofsky relacionados ao estudo dos significados emblemáticos presentes nos discursos visuais nas obras dos artistas. Essa pesquisa também possui referências nos conceitos de Didi-Huberman e nas abordagens de Warburg sobre perceber e pensar Arte e História, especialmente no exemplo do Atlas Mnemosine, explorando nesse modelo de organizar e pensar as imagens, e seus artistas criadores, através das inter-relações dos significados simbólicos nas criações visuais.
 <br><br>
+<p class='cit'>Agradecimentos:</p>
 <div class="imgLogos">
 <a href="javascript:void(0);" onclick="window.open('https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=1880');return false"><img src="./im/logos/ppgav.png" alt="Logo PPGAV" width="50px" height="50px"></a>
 <a href="javascript:void(0);" onclick="window.open('http://www.ccta.ufpb.br/pinacoteca');return false"><img src="./im/logos/pinacoteca.png" alt="Logo Pinacoteca UFPB" width="50px" height="50px"></a>
@@ -16,4 +17,9 @@ O design desenvolvido pelo autor deste projeto parte dos conceitos de leitura da
 <a href="javascript:void(0);" onclick="window.open('https://www.rijksmuseum.nl/nl');return false"><img src="./im/logos/rijks.png" alt="Logo Rijksmuseum" width="50" height="50"></a>
 <a href="javascript:void(0);" onclick="window.open('https://www.ufpb.br/');return false"><img src="./im/logos/ufpb.png" alt="Brasão Universidade Federal da Paraíba"  width="50" height="50"></a>
 <a href="javascript:void(0);" onclick="window.open('https://www.ufpe.br/');return false"><img class="imgLogos" src="./im/logos/ufpe.png" alt="Brasão Universidade Federal de Pernambuco"  width="50" height="50"></a>
+</div>
+<br>
+<p class='cit'>Contato:</p>
+<div class="imgLogos">
+<a href="javascript:void(0);" onclick="window.open('https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=1880');return false"><img src="./im/logos/insta-white.svg" alt="Logo PPGAV" width="50px" height="50px"></a>
 </div>
