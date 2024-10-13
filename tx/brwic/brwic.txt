@@ -1,5 +1,5 @@
 Dominar a produção e lucros do açúcar brasileiro, esse era um dos principais motivos que levou à invasão de parte do Brasil pela Companhia das Índias Ocidentais, também conhecida por WIC (<i>West Indische Compagnie</i>) ou pela sigla comercial GWC (<i>Geoctroyeerde West-Indische Compagnie</i>). Entre 1630 e 1654, a WIC invadiu vastas regiões do Nordeste brasileiro, sendo o intuito da Companhia conquistar todo o Brasil, e assim expandir os ganhos dos acionistas na empreitada estrangeira associada com outros interesses geopolíticos.  Para esse objetivo, e para conduzir as guerras contra a resistência brasileira, foi contratado o conde Maurício de Nassau. Atendendo aos planos do próprio Conde, a obra <i>Rerum per octennium in Brasilia</i>, publicada por Gaspar Barléu, em 1647, registrou em textos e imagens o governo de Maurício no Brasil.
-<br>
+<br><br>
 <img class="parimg" src="./im/barleu MCMXL 1940 - p159 - cabedelo forte.webp" alt="Gravura de Frans Post - Forte de Cabedelo">
 <p class='cit'>Vista da fortaleza de Santa Catarina em Cabedelo, Paraíba. Gravura de Frans Post na obra de Gaspar Barléu, 1646.<i>
 <a href="javascript:void(0);" onclick="window.open('https://www2.senado.leg.br/bdsf/handle/id/1109”);return false');return false">O Brasil holandês sob o conde João Maurício de Nassau</a></i>. (Barléu, 2005, p. 167)</p>
