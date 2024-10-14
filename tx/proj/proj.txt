@@ -13,6 +13,8 @@ O design desenvolvido pelo autor deste projeto parte dos conceitos de leitura da
 <a href="javascript:void(0);" onclick="window.open('http://www.ccta.ufpb.br/pinacoteca');return false"><img src="./im/logos/pinacoteca.png" alt="Logo Pinacoteca UFPB" width="50px" height="50px"></a>
 <a href="javascript:void(0);" onclick="window.open('https://www12.senado.leg.br/institucional/biblioteca');return false">
 <img src="./im/logos/senado.png" alt="Logo Senado Federal" width="50" height="50"></a>
+<a href="javascript:void(0);" onclick="window.open('https://cadastro.museus.gov.br/');return false"><img src="./im/logos/ihgp-gs.png" alt="Logo Instituto Histórico e Geográfico Paraibano" width="50" height="50"></a>
+<a href="javascript:void(0);" onclick="window.open('https://www.ipatrimonio.org/cabedelo-fortaleza-de-santa-catarina/');return false"><img src="./im/logos/forte-santa-catarina-gs.png" alt="Logo do Forte Santa Catarina" width="50" height="50"></a>
 <a href="javascript:void(0);" onclick="window.open('http://www.institutoricardobrennand.org.br/');return false"><img src="./im/logos/rb.png" alt="Logo Instituto Ricardo Brenand" width="50" height="50"></a>
 <a href="javascript:void(0);" onclick="window.open('https://www.rijksmuseum.nl/nl');return false"><img src="./im/logos/rijks.png" alt="Logo Rijksmuseum" width="50" height="50"></a>
 <a href="javascript:void(0);" onclick="window.open('https://www.ufpb.br/');return false"><img src="./im/logos/ufpb.png" alt="Brasão Universidade Federal da Paraíba"  width="50" height="50"></a>
