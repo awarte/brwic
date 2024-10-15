@@ -1,0 +1,1 @@
+Use o mouse e scroll, ou movimentos touch, para navegar pela cena 3D.<br><br> <img src="./icon/icons.svg" width="180px">
