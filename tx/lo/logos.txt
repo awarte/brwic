@@ -1,0 +1,10 @@
+<div class="conLogos">
+agradecimentos:
+<a href="javascript:void(0);" onclick="https://sigaa.ufpb.br/sigaa/public/programa/portal.jsf?lc=pt_BR&id=1880”);return false"><img src="./im/logos/ppgav.png" alt="Logo PPGAV" width="50px" height="50px"></a>
+<a href="javascript:void(0);" onclick="http://www.ccta.ufpb.br/pinacoteca”);return false"><img src="./im/logos/pinacoteca.png" alt="Logo Pinacoteca UFPB" width="50px" height="50px"></a>
+<a href="javascript:void(0);" onclick="https://www12.senado.leg.br/institucional/biblioteca”);return false"><img src="./im/logos/senado.png" alt="Logo Senado Federal" width="50" height="50"></a>
+<a href="javascript:void(0);" onclick="http://www.institutoricardobrennand.org.br/”);return false"><img src="./im/logos/rb.png" alt="Logo Instituto Ricardo Brenand" width="50" height="50"></a>
+<a href="javascript:void(0);" onclick="https://www.rijksmuseum.nl/nl”);return false"><img src="./im/logos/rijks.png" alt="Logo Rijksmuseum" width="45" height="50"></a>
+<a href="javascript:void(0);" onclick="https://www.ufpb.br/”);return false"><img src="./im/logos/ufpb.gif" alt="Brasão Universidade Federal da Paraíba"  width="39" height="50"></a>
+<a href="javascript:void(0);" onclick="https://www.ufpe.br/”);return false"><img class="imgLogos" src="./im/logos/ufpe.png" alt="Brasão Universidade Federal de Pernambuco"  width="36" height="50"></a>
+</div>
