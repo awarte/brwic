@@ -7,8 +7,8 @@
    viewBox="0 0 26.458333 26.458333"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="logobrwic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="iconbrwic .svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,18 +25,16 @@
      showgrid="true"
      height="100mm"
      units="px"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="44.194173"
-     inkscape:cy="108.89444"
-     inkscape:window-width="2560"
-     inkscape:window-height="1022"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="39.951532"
+     inkscape:cy="92.630986"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:snap-global="true"
-     inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid1089" />
@@ -47,15 +45,24 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="rect931"
+    <rect
        style="fill:#000000;stroke-width:0.707107;stroke-linecap:square;stroke-dashoffset:3.77953;paint-order:markers fill stroke;stop-color:#000000"
-       d="M -9.3544333 9.3544333 L -9.3544333 -9.3544333 L -28.0633 -9.3544333 L -28.0633 9.3544333 L -9.3544333 9.3544333 z M -15.435546 3.2733209 A 4.5493684 4.5493684 0 0 1 -21.869642 3.2733209 A 4.5493684 4.5493684 0 0 1 -21.869277 -3.1604099 A 4.5493684 4.5493684 0 0 1 -15.435546 -3.1607753 A 4.5493684 4.5493684 0 0 1 -15.435546 3.2733209 z "
+       id="rect931"
+       width="18.708868"
+       height="18.708868"
+       x="-28.063299"
+       y="-9.354434"
        transform="rotate(-135)" />
     <g
        id="g1743"
        transform="matrix(-0.92392548,0,0,0.59728783,22.731953,6.8002001)"
        style="fill:#000000" />
+    <circle
+       style="fill:#ffffff;stroke-width:1.78395;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:3.77953;paint-order:markers fill stroke;stop-color:#000000"
+       id="path1767"
+       cx="13.229166"
+       cy="13.149449"
+       r="4.5493684" />
     <g
        id="g2140"
        transform="matrix(0.92392548,0,0,0.59728783,3.7256643,6.8002001)"
