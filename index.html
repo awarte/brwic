@@ -7,8 +7,8 @@
     <title>WIC</title>
     <style>
     </style>
-    <script type="module" crossorigin src="./assets/index-BNIfldnu.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-DS5_FD1n.css">
+    <script type="module" crossorigin src="./assets/index-CY0_Qhi2.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BFpAgHF2.css">
   </head>
   <body>
     </script>
@@ -35,7 +35,7 @@
           <a href="javascript:void(0);" id="btrn" onclick="barResp()">Rio Grande</a>
           <a href="javascript:void(0);" id="btpr" onclick="barResp()">Projeto</a>
           <div class="dropdown">
-            <button class="dropbtn">pt 
+            <button class="dropbtn"><a href="javascript:void(0);" id="btpe" onclick="barResp()">pt</a>
               <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
@@ -46,6 +46,19 @@
           </div>
         </div>
     </header>
+    <script type="text/javascript"> // RELOADS WEBPAGE WHEN MOBILE ORIENTATION CHANGES  
+        window.onorientationchange = function() { 
+            var orientation = window.orientation; 
+                switch(orientation) { 
+                    case 0: window.location.reload(); 
+                    break; 
+                    case 90: window.location.reload(); 
+                    break; 
+                    case -90: window.location.reload(); 
+                    break; 
+                } 
+        };
+    </script>
     <script>
         function barResp() {
             var x = document.getElementById("myTopnav");
