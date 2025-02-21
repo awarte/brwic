@@ -11,9 +11,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Brasil holandês</title>
     <style>
+      div#google_translate_element div.goog-te-gadget-simple{position:absolute;z-index:500;top:6px;right:115px;background-color:none;overflow:none;border:none;filter:saturate(0%);}
+      div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span{color:white}
+      div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span:hover{color:#fff}
     </style>
-    <script type="module" crossorigin src="./assets/index-zQ0OIrzw.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-DS27HaPB.css">
+    <script type="module" crossorigin src="./assets/index-CnWsg-ig.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CwZ6PI7e.css">
   </head>
   <body>
     </script>
@@ -39,6 +42,7 @@
           <a href="javascript:void(0);" id="btpb" onclick="barResp()">Paraíba</a>
           <a href="javascript:void(0);" id="btrn" onclick="barResp()">Rio Grande</a>
           <a href="javascript:void(0);" id="btpr" onclick="barResp()">Projeto</a>
+          <!--
           <div class="dropdown">
             <button class="dropbtn"><a href="javascript:void(0);" id="btpe" onclick="barResp()">pt</a>
               <i class="fa fa-caret-down"></i>
@@ -49,6 +53,7 @@
               <a class="ris" href="javascript:void(0);" id="lanne" onclick="barResp()">ne</a>
             </div>
           </div>
+          -->
         </div>
     </header>
     <script type="text/javascript"> // RELOADS WEBPAGE WHEN MOBILE ORIENTATION CHANGES  
@@ -74,5 +79,14 @@
             }
         } 
     </script>
+
+    <div id="google_translate_element"></div>
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'pt-br', includedLanguages: 'en,es,fr,nl,zh-cn', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+    }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
   </body>
 </html>
